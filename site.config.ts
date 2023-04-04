@@ -54,12 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
      {
-       title: 'About',
-       pageId: 'About-95c9a64dd08745c8a80556714efe579c'
+       title: '中文',
+       pageId: 'e62a9606187643b6a2a9ffab19b50934'
      },
      {
-       title: 'Contact',
-       pageId: 'Contact-855660805d164b5882199c7b98d85ba5'
+       title: '한글',
+       pageId: 'be29d8a13b0a4484a8d61bd906604648'
      },
      {
        title: 'English',
